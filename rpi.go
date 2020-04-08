@@ -106,7 +106,7 @@ import "unsafe"
 import (
 	"errors"
 	"fmt"
-	"github.com/rogpeppe/rog-go/tree/master/exp/callback"
+	"github.com/rogpeppe/rog-go/exp/callback"
 	"sync"
 )
 
